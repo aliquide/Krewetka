@@ -1,21 +1,15 @@
-﻿Build started 2014-06-11 15:57:10.
-     1>Project "E:\Projects\SilnikOpenGL\OpenGL\Krewetka\Krewetka.vcxproj" on node 2 (Build target(s)).
+﻿Build started 2014-06-12 17:16:00.
+     1>Project "E:\Projects\Krewetka\OpenGL\Krewetka\Krewetka.vcxproj" on node 2 (Build target(s)).
      1>ClCompile:
          D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Main.cpp
          Main.cpp
-     1>e:\projects\silnikopengl\opengl\krewetka\surf.h(26): warning C4305: 'initializing' : truncation from 'double' to 'GLfloat'
-     1>e:\projects\silnikopengl\opengl\krewetka\surf.h(87): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
-     1>e:\projects\silnikopengl\opengl\krewetka\surf.h(88): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
-     1>e:\projects\silnikopengl\opengl\krewetka\surf.h(89): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
-     1>e:\projects\silnikopengl\opengl\krewetka\surf.h(90): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
-     1>e:\projects\silnikopengl\opengl\krewetka\main.cpp(87): warning C4129: 'e' : unrecognized character escape sequence
-     1>e:\projects\silnikopengl\opengl\krewetka\main.cpp(113): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
-     1>e:\projects\silnikopengl\opengl\krewetka\main.cpp(132): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
+     1>e:\projects\krewetka\opengl\krewetka\main.cpp(48): warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+     1>e:\projects\krewetka\opengl\krewetka\main.cpp(130): warning C4244: 'argument' : conversion from 'double' to 'GLfloat', possible loss of data
        Link:
-         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Projects\SilnikOpenGL\OpenGL\Debug\Krewetka.exe" /INCREMENTAL /NOLOGO opengl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Projects\SilnikOpenGL\OpenGL\Debug\Krewetka.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Projects\SilnikOpenGL\OpenGL\Debug\Krewetka.lib" /MACHINE:X86 Debug\Main.obj
-         Krewetka.vcxproj -> E:\Projects\SilnikOpenGL\OpenGL\Debug\Krewetka.exe
-     1>Done Building Project "E:\Projects\SilnikOpenGL\OpenGL\Krewetka\Krewetka.vcxproj" (Build target(s)).
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Projects\Krewetka\OpenGL\Debug\Krewetka.exe" /INCREMENTAL /NOLOGO opengl32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Projects\Krewetka\OpenGL\Debug\Krewetka.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Projects\Krewetka\OpenGL\Debug\Krewetka.lib" /MACHINE:X86 Debug\Main.obj
+         Krewetka.vcxproj -> E:\Projects\Krewetka\OpenGL\Debug\Krewetka.exe
+     1>Done Building Project "E:\Projects\Krewetka\OpenGL\Krewetka\Krewetka.vcxproj" (Build target(s)).
 
 Build succeeded.
 
-Time Elapsed 00:00:00.80
+Time Elapsed 00:00:00.93
