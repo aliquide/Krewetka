@@ -1,0 +1,16 @@
+*.exe
+*.ilk
+*.pdb
+*.suo
+*.log
+*.log
+*.tlog
+*.log
+*.log
+*.tlog
+*.obj
+OpenGL/Krewetka/Debug/Main.obj
+*.sdf
+OpenGL/OpenGL.sdf
+OpenGL/Krewetka/Main.cpp
+OpenGL/Krewetka/Main.cpp
