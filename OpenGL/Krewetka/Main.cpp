@@ -241,7 +241,7 @@ void renderScene(void)
 	// Set the camera centered at (x,y,1) and looking along directional
 	// vector (lx, ly, 0), with the z-axis pointing up
 	gluLookAt(
-		x, y, 4.0,
+		x, y, 1.0,
 		x + lx, y + ly, 1.0,
 		0.0, 0.0, 1.0);
 
